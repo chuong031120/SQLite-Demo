@@ -1,2 +1,2 @@
 # SQLiteDemoApplicationActivity
-[Quay Lại BaiTapAndroid](https://github.com/Vanngoc98/BaiTapAndroid)
+[Quay lại trang đầu tiên](https://github.com/chuong031120/BT_android/blob/master/README.md)
